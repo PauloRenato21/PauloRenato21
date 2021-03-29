@@ -2,7 +2,7 @@
 
 **About me**
 
-I am a student:man_student: of programming nerd_face: in the technical:man_technologist: course of Senai MG **Technician in computer science for Internet**.
+I am a student:man_student: of programming in the technical:man_technologist: course of Senai MG **Technician in computer science for Internet**.
 
 Welcome:vulcan_salute:
 

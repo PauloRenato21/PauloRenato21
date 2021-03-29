@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Paulo👋
 
-<!--
-**PauloRenato21/PauloRenato21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+I am a student:man_student: of programming nerd_face: in the technical:man_technologist: course of Senai MG **Technician in computer science for Internet **.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome:vulcan_salute:
+
+
+
+---
+
+
+
+### Olá, eu sou o Paulo:raised_hand_with_fingers_splayed:
+
+**sobre mim**
+
+Eu sou estudante:man_student: de programação no curso técnico:man_technologist: do SENAI MG **Técnico em informática para internet**.
+
+Bem vindo(a):vulcan_salute:
+

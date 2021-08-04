@@ -2,9 +2,9 @@
 
 **About me**
 
-I am a student:man_student: of programming in the technical:man_technologist: course of Senai MG **Technician in computer science for Internet**.
+I am a beginner programmer:man_technologist: who is looking for more knowledge in the area of programming, and to improve myself in the programming languages that I have knowledge of:
 
-Welcome:vulcan_salute:
+Welcome :vulcan_salute:
 
 
 
@@ -14,9 +14,8 @@ Welcome:vulcan_salute:
 
 ### Olá, eu sou o Paulo:raised_hand_with_fingers_splayed:
 
-**sobre mim**
+**Sobre mim**
 
-Eu sou estudante:man_student: de programação no curso técnico:man_technologist: do SENAI MG **Técnico em informática para internet**.
+Sou um programador iniciante:man_technologist: que busca por mais conhecimento na área da programação, e me aperfeiçoar nas linguagens de programação que tenho conhecimento: 
 
-Bem vindo(a):vulcan_salute:
-
+Bem vindo(a)​ :vulcan_salute:
